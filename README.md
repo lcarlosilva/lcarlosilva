@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi there 🙋‍♂️ I'm Luiz Carlos
+
+My main skills are on Android, Kotlin and Java development. </br> 
+
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+</br> 
+
+<!--[my Medium profile](https://medium.com/@luizvaldeco) -->
+
+Usually, I create new repositories for store some personal projects, configurations or sample content. 
+
+Feel free to explore and re-use any of my projects :wink:
 
 <div align=center>
         <a href="https://www.linkedin.com/in/luiz-carlos-bb788b52/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
