@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align=center>
+        <a href="https://www.linkedin.com/in/luiz-carlos-bb788b52/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://stackoverflow.com/users/3962316/valdeco"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <!--<a href="mailto:<ADD-EMAIL>"><img src="https://img.shields.io/badge/Mail-Gmail-red" alt="Gmail" /></a> -->
+</div>
+
 <!--
 **lcarlosilva/lcarlosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
