@@ -4,8 +4,8 @@ My main skills are on Android, Kotlin and Java development. </br>
 
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
 </br> 
 
@@ -13,13 +13,21 @@ My main skills are on Android, Kotlin and Java development. </br>
 
 Usually, I create new repositories for store some personal projects, configurations or sample content. 
 
-Feel free to explore and re-use any of my projects :wink:
+<div>
+  <a href="https://github.com/lcarlosilva">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarlosilva&layout=compact&theme=maroongold" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcarlosilva&show_icons=true&theme=maroongold" />
+  </a>
+</div>
 
-<div align=center>
+<!-- Feel free to explore and re-use any of my projects :wink: -->
+</br>
+
+<div align=left>
         <a href="https://www.linkedin.com/in/luiz-carlos-bb788b52/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/3962316/valdeco"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://g.dev/luizcarlosarruda"><img src="https://img.shields.io/badge/Google_Developer-green?logo=google&logoColor=white" alt="Google for Developers"/></a>
         <a href="https://dev.to/lcarlosilva"><img src="https://img.shields.io/badge/DEV_Community-black?style=flat&logo=resized_logo_UQww2soKuUsjaOGNB38o" alt="DEV Community"/></a>
-        <a href="https://g.dev/luizcarlosarruda"><img src="https://img.shields.io/badge/Google_Developers-blue?style=flat&logo=resized_logo_UQww2soKuUsjaOGNB38o" alt="Google for Developers"/></a>
   <!--<a href="mailto:<ADD-EMAIL>"><img src="https://img.shields.io/badge/Mail-Gmail-red" alt="Gmail" /></a> -->
 </div>
 
