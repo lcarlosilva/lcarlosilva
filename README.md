@@ -15,8 +15,8 @@ Usually, I create new repositories for store some personal projects, configurati
 
 <div>
   <a href="https://github.com/lcarlosilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarlosilva&layout=compact&theme=maroongold" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcarlosilva&show_icons=true&theme=maroongold" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarlosilva&layout=compact&theme=nightowl" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcarlosilva&show_icons=true&theme=nightowl" />
   </a>
 </div>
 
