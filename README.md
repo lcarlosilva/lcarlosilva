@@ -25,6 +25,14 @@ Usually, I create new repositories for store some personal projects, configurati
 <!-- Feel free to explore and re-use any of my projects :wink: -->
 </br>
 
+<!-- <div align=center>
+  <a href="https://app.daily.dev/luiz0carlos">
+    <img src="https://api.daily.dev/devcards/v2/a9C1c3OMJqaEd3MhSVtk7.png?type=wide&r=lv6" width="352" alt="Luiz Carlos's Dev Card"/>
+  </a>
+</div> -->
+
+</br>
+
 <div align=left>
         <a href="https://www.linkedin.com/in/luiz-carlos-bb788b52/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://stackoverflow.com/users/3962316/valdeco"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
