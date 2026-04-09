@@ -9,7 +9,8 @@ My main skills are on Android, Kotlin and Java development. </br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </div>
-</br> 
+
+<br /> 
 
 <!--[my Medium profile](https://medium.com/@luizvaldeco) -->
 
@@ -39,13 +40,13 @@ Usually, I create new repositories for store some personal projects, configurati
   </a>
 </div> -->
 
-</br>
+<br />
 
 <div align=left>
-        <a href="https://www.linkedin.com/in/luiz-carlos-bb788b52/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stackoverflow.com/users/3962316/valdeco"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://g.dev/luizcarlosarruda"><img src="https://img.shields.io/badge/Google_Developer-green?logo=google&logoColor=white" alt="Google for Developers"/></a>
-        <a href="https://dev.to/lcarlosilva"><img src="https://img.shields.io/badge/DEV_Community-black?style=flat&logo=resized_logo_UQww2soKuUsjaOGNB38o" alt="DEV Community"/></a>
+    <a href="https://www.linkedin.com/in/luiz-carlos-bb788b52/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://stackoverflow.com/users/3962316/valdeco"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+    <a href="https://g.dev/luizcarlosarruda"><img src="https://img.shields.io/badge/Google_Developer-green?logo=google&logoColor=white" alt="Google for Developers"/></a>
+    <a href="https://dev.to/lcarlosilva"><img src="https://img.shields.io/badge/DEV_Community-black?style=flat&logo=resized_logo_UQww2soKuUsjaOGNB38o" alt="DEV Community"/></a>
   <!--<a href="mailto:<ADD-EMAIL>"><img src="https://img.shields.io/badge/Mail-Gmail-red" alt="Gmail" /></a> -->
 </div>
 
