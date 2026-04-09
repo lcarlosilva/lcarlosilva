@@ -15,10 +15,18 @@ My main skills are on Android, Kotlin and Java development. </br>
 
 Usually, I create new repositories for store some personal projects, configurations or sample content. 
 
-<div>
+<div align="center">
   <a href="https://github.com/lcarlosilva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarlosilva&layout=compact&theme=nightowl" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcarlosilva&show_icons=true&theme=nightowl" />
+    <img 
+      height="170" 
+      alt="Linguagens mais usadas" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcarlosilva&layout=compact&theme=nightowl" 
+    />
+    <img 
+      height="170" 
+      alt="Estatísticas do GitHub" 
+      src="https://github-readme-stats.vercel.app/api?username=lcarlosilva&show_icons=true&theme=nightowl" 
+    />
   </a>
 </div>
 
